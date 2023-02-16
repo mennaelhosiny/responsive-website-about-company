@@ -1,0 +1,139 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+.navbar-brand{
+    margin-left: 100px;
+}
+ul{
+    margin-right: 150px;
+}
+.cont{
+    padding: 10px;
+    width: 100%;
+}
+.div1{
+    margin-left: 150px;
+
+}
+.div2,.div3,.div4{
+    margin-left: 250px;
+
+}
+.text h1{
+    text-transform: uppercase;
+}
+.title{
+    font-size: 30px;
+}
+.text{
+    padding-bottom: 150px;
+}
+.container{
+    margin-top:70px ;
+}
+.sec3{
+    background-color: rgb(231, 252, 242);
+    text-align: center;
+    margin-top: 20px;
+}
+.cardz{
+    width: 250px;
+}
+.icon i{
+    font-size: 25px;
+    border: 5px solid rgb(255, 157, 0);
+    border-radius: 50%;
+    padding: 10px;
+}
+.part2{
+    display: flex;
+    padding-left: 50px;
+}
+.sec3 h2{
+   margin: auto;
+   text-align: center;
+   padding-top: 80px;
+}
+.sec4{
+    padding-left: 60px;
+}
+.con p{
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.sec5 h2{
+    text-transform: uppercase;
+
+}
+
+.forrm{
+    width: 50%;
+    margin-top: 30px;
+    padding-left: 50px;
+}
+.con{
+    margin-top:30px ;
+}
+.sec6{
+    background-image: url(../images/images/6.png);
+    width: 100%;
+    height: 100%;
+
+
+}
+.sec6 {
+    position: relative;
+    z-index: 1;
+
+}
+.sec6 .cardz{
+margin-top: 110px;
+}
+.user{
+    margin-top: 10px;
+}
+
+.overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0,0.5);
+    height: 100%;
+    z-index: -1;
+    width: 100%;
+    top: 0;
+}
+.icons i{
+    border-radius: 50%;
+    background-color:rgb(255, 157, 0) ;
+    padding: 10px;
+}
+
+.cbody i{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.contact{
+    margin-bottom:20px ;
+}
+.sec6 h3{
+    color: #fff;
+}
+
+.sec6 p{
+    color: #fff;
+}
+.sec6 span{
+    color: #fff;
+}
+.sec6 i{
+    color: #fff;
+}
+.sec6 li{
+    color: #fff;
+}
+.contain{
+    position: relative;
+}
+.cbody h3{
+    margin-top: 130px;
+}
